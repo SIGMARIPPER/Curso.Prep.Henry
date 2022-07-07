@@ -1,0 +1,27 @@
+Intro a Java Script:
+
+
+variable:
+
+Una variable identificada con la palabra "var", sirve para almacenar informacion que luego podemos invocarla, esta variable a diferencia de "const", no mantiene su valor cuando se modifica, sino que se puede modificar cuantas veces sea necesario, el problema es que pierde el valor asignado anteriormente.
+
+
+Strin:
+
+En JS Java Script, un "String", es una palabra, o hilo, es decir es un conjunto de letras seguidas que forman las palabras por eso el nombre de string, porque forman hilados de letras, y como parametro fundamental un String debe estar siempre delimitado, tanto al comienzo como al final por comillas.
+
+
+Funciones (Argumentos, "return"):
+
+Las Funciones son basicamente agrupaciones de codigo previamente asignado por ejemplo en variables, para despues utilizarlas reiteradas veces, de este modo evitamos chorizos de codigos innecesarios y pérdida de tiempo, estas comienzan siempre con la palabra "function", y le dice al programa que lo que viene es la funcion, recordemos que la function para ejecutase siempre necesita paréntesis, teniendoen cuenta lo solicitado,  consol.log es una forma de mostrar parte d ela funcion, ahora si queremos que devuelva algo la funcion se emplea  ".return", de este modo en el caso de la suma, la funcion nos devolvera el resultado, debemos tener en cuenta que la funcion cuandollega a .return automaticamente corta lo que esta haciendo para devolvel el resultado.    
+
+
+declaraciones "if":
+
+Las Declaraciones son pedazos de informacion las cuales son suministradas a una funcion, destro de esta existe lo que se llama un operador de control de flujo eneste caso "if", cuya funcion es condicionar la operacion, es decir, se ingresan los datos lo que activa eloperador, en caso de que este resulte "true", el operador realiza una acción, caso contrarioque sea "folse", el operador continuara ejecutando la función hasta tanto no resulte "true", caso en el cual la función se detendrá y saldrá.
+
+
+valores boleanos ("True", "Folse"):
+
+Los valores Booleanos tienen origen el la "Logica de Boole", es un concepto basico en relacion o lo referido al codigo binario, codigo informatico, dond ela escritura esta dada por "1" o "0", donde uno significa verdadero y el otro falso, lo que hace referencia a los valores booleanos que son "true", que significa verdadero, y el otro valor booleano es "Folse", que significa falso.
+
